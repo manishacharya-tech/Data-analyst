@@ -213,7 +213,8 @@ python main.py
 
 ## 📸 Screenshots
 
-(Add dashboard screenshots here)
+<img width="1440" height="1174" alt="image" src="https://github.com/user-attachments/assets/a14d9d87-5c33-467c-8f8b-88bbb2aa56d2" />
+
 
 ---
 

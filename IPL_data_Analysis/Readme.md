@@ -205,12 +205,6 @@ python main.py
 
 ---
 
-## 🎯 Interview Talking Point
-
-“I built a fully automated IPL analytics pipeline where one command downloads data using Kaggle API, processes 200K+ records, loads into PostgreSQL, and validates data quality. The Power BI dashboard includes a dynamic player comparison tool using disconnected tables and advanced DAX.”
-
----
-
 ## 📸 Screenshots
 
 <img width="1440" height="1174" alt="image" src="https://github.com/user-attachments/assets/a14d9d87-5c33-467c-8f8b-88bbb2aa56d2" />

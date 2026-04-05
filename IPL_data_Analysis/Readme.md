@@ -214,7 +214,6 @@ python main.py
 <img width="1440" height="1082" alt="image" src="https://github.com/user-attachments/assets/0d09a371-9c84-40a2-a47b-0221028f2490" />
 
 
-<img width="1440" height="1086" alt="image" src="https://github.com/user-attachments/assets/c2c50a7f-3aa8-43cc-b6b3-15813fc18db2" />
 
 
 

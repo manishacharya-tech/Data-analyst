@@ -207,7 +207,17 @@ python main.py
 
 ## 📸 Screenshots
 
-<img width="1440" height="1174" alt="image" src="https://github.com/user-attachments/assets/a14d9d87-5c33-467c-8f8b-88bbb2aa56d2" />
+<img width="1440" height="1040" alt="image" src="https://github.com/user-attachments/assets/9ab5803a-bed7-426c-9784-579829c21920" />
+
+<img width="1440" height="1062" alt="image" src="https://github.com/user-attachments/assets/867bfab7-6ecb-48ba-a0d4-4ac27de73c8e" />
+
+<img width="1440" height="1082" alt="image" src="https://github.com/user-attachments/assets/0d09a371-9c84-40a2-a47b-0221028f2490" />
+
+
+<img width="1440" height="1086" alt="image" src="https://github.com/user-attachments/assets/c2c50a7f-3aa8-43cc-b6b3-15813fc18db2" />
+
+
+
 
 
 ---

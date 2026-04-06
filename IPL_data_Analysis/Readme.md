@@ -213,11 +213,7 @@ python main.py
 
 <img width="1440" height="1082" alt="image" src="https://github.com/user-attachments/assets/0d09a371-9c84-40a2-a47b-0221028f2490" />
 
-
-
-
-
-
+<img width="1440" height="1102" alt="image" src="https://github.com/user-attachments/assets/f6c560fa-8e84-483e-a1c9-2410290f9a1b" />
 
 ---
 

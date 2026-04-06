@@ -168,7 +168,8 @@ ipl-analytics/
 
 ### 1. Clone Repo
 
-``` https://github.com/manishacharya-tech/Data-analyst/IPL_data_Analysis
+```
+https://github.com/manishacharya-tech/Data-analyst
 
 cd IPL_data_Analysis
 ```

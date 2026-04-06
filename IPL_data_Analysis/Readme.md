@@ -168,9 +168,9 @@ ipl-analytics/
 
 ### 1. Clone Repo
 
-```
-git clone https://github.com/yourusername/ipl-analytics.git
-cd ipl-analytics
+``` https://github.com/manishacharya-tech/Data-analyst/IPL_data_Analysis
+
+cd IPL_data_Analysis
 ```
 
 ### 2. Install Dependencies
